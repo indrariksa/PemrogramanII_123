@@ -1,0 +1,7 @@
+C:\Users\INDRA\source\repos\LatihanPertemuan2\LatihanPertemuan2\bin\Debug\LatihanPertemuan2.exe.config
+C:\Users\INDRA\source\repos\LatihanPertemuan2\LatihanPertemuan2\bin\Debug\LatihanPertemuan2.exe
+C:\Users\INDRA\source\repos\LatihanPertemuan2\LatihanPertemuan2\bin\Debug\LatihanPertemuan2.pdb
+C:\Users\INDRA\source\repos\LatihanPertemuan2\LatihanPertemuan2\obj\Debug\LatihanPertemuan2.csproj.AssemblyReference.cache
+C:\Users\INDRA\source\repos\LatihanPertemuan2\LatihanPertemuan2\obj\Debug\LatihanPertemuan2.csproj.CoreCompileInputs.cache
+C:\Users\INDRA\source\repos\LatihanPertemuan2\LatihanPertemuan2\obj\Debug\LatihanPertemuan2.exe
+C:\Users\INDRA\source\repos\LatihanPertemuan2\LatihanPertemuan2\obj\Debug\LatihanPertemuan2.pdb
